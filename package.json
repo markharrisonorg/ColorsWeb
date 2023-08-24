@@ -3,7 +3,7 @@
   "name": "colorsweb",
   "private": true,
   "devDependencies": {
-    "grunt": "1.5.1",
+    "grunt": "1.6.1",
     "grunt-contrib-less": "3.0.0",
     "less-plugin-autoprefix": "2.0.0",
     "grunt-contrib-uglify": "5.1.0",
